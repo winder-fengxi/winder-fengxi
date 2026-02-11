@@ -1,26 +1,34 @@
-<!-- markdownlint-disable MD033 MD041 -->
+﻿<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
   <!-- Typing SVG Header -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=welcome+to+my+profile;Hi,+I'm+winder_fly" alt="Typing SVG" />
   </a>
 
-  <!-- Profile Section -->
-  <h3>Hi, I'm</h3>
-  <p>
-    (en) <b>winder_fly</b><br>
-    (zh) <b>风汐&优汐</b><br>
-  </p>
-  
-  <br>
+  <br><br>
 
-  <!-- Quote -->
-  <p><i>“摆心一时起，顿觉天地宽。QWQ”</i></p>
-
-  <br>
-
-  <!-- Profile Image (Centered) -->
-  <img src="https://winder-fengxi.github.io/images/baimiao.jpeg" alt="Profile Image" width="300" style="border-radius: 50%;">
+  <!-- Two Column Layout using Table -->
+  <table border="0" width="100%">
+    <tr>
+      <td width="60%" valign="center">
+        <h3>Hi, I'm</h3>
+        <br>
+        <p>
+          <code style="color: #36BCF7">(en)</code> <b>winder_fly</b><br>
+          <code style="color: #36BCF7">(zh)</code> <b>风汐&优汐</b><br>
+        </p>
+        <br>
+        <!-- Quote using blockquote style inside table cell -->
+        <blockquote>
+          <i>摆心一时起，顿觉天地宽。QWQ</i>
+        </blockquote>
+      </td>
+      <td width="40%" align="center" valign="center">
+        <!-- Profile Image -->
+        <img src="https://winder-fengxi.github.io/images/baimiao.jpeg" alt="Profile Image" width="250" style="border-radius: 50%;">
+      </td>
+    </tr>
+  </table>
 
   <br><br>
 
