@@ -10,11 +10,11 @@
   <br><br>
 
   <!-- Preformatted Text Block -->
-  <pre align="center">
+  <pre align="center" style="font-size: 20px;">
     (en) <b>winder_fly</b>
     (zh) <b>风汐&优汐</b>
 
-    <i>摆心一时起，顿觉天地宽。QWQ</i>
+    <i>“摆心一时起，顿觉天地宽。QWQ”</i>
   </pre>
 
   <br><br>
