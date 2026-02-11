@@ -1,5 +1,3 @@
-## Hi there, I'm Fengxi Winder 👋  
-
 ![Profile Image](https://winder-fengxi.github.io/images/baimiao.jpeg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=50&pause=1000&color=05F7CC&width=435&lines=welcome+to+my+profile)](https://git.io/typing-svg)
