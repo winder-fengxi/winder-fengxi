@@ -10,18 +10,22 @@
   <br><br>
 
   <!-- Preformatted Text Block -->
-  <pre align="center" style="font-size: 20px;">
-    (en) <b>winder_fly</b>
-    (zh) <b>风汐&优汐</b>
-
-    <i>“摆心一时起，顿觉天地宽。QWQ”</i>
-  </pre>
+  <div align="center">
+    <h3>
+      <code>(en)</code> <b>winder_fly</b><br>
+      <code>(zh)</code> <b>风汐&优汐</b>
+    </h3>
+    <br>
+    <h3><i>“摆心一时起，顿觉天地宽。QWQ”</i></h3>
+  </div>
 
   <br><br>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=winder-fengxi&show_icons=true&theme=radical" alt="winder-fengxi's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winder-fengxi&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=winder-fengxi&show_icons=true&theme=radical" alt="winder-fengxi's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=winder-fengxi&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
 
   <br><br>
 
